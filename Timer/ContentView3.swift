@@ -5,6 +5,7 @@
 //  Created by Juliano Vaz on 11/03/21.
 //
 //https://betterprogramming.pub/how-to-build-a-timer-using-swift-and-swiftui-e72cd8eb3d3a#_=_
+// With animation https://www.youtube.com/watch?v=-Xy1jBgGn7E&ab_channel=Rebeloper-RebelDeveloper
 
 import SwiftUI
 //import Combine
