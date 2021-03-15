@@ -4,11 +4,13 @@
 //
 //  Created by Juliano Vaz on 11/03/21.
 //
+//https://betterprogramming.pub/how-to-build-a-timer-using-swift-and-swiftui-e72cd8eb3d3a#_=_
 
 import SwiftUI
 //import Combine
 import Foundation
 import UIKit
+
 
 
 struct ContentView3: View {
